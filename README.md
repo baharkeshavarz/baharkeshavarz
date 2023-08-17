@@ -1,4 +1,4 @@
-### Hey! 👋🏼 I'm Bahar
+# Hey! 👋🏼 I'm Bahar
 
 
 I'm eager to learn and share. Skilled in Computer Science, Web Development. Passionate about teamwork, solving problems, business challenges, and coding.
