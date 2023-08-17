@@ -4,8 +4,11 @@
 I'm eager to learn and share. Skilled in Computer Science, Web Development. Passionate about teamwork, solving problems, business challenges, and coding.
 
 ## GitHub Stats
+<p>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baharkeshavarz&theme=ayu_mirage) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baharkeshavarz&theme=ayu_mirage) 
+</p>
+
 
 ## Languages and Tools
 <p float="left">
