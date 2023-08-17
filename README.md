@@ -5,7 +5,7 @@ I'm eager to learn and share. Skilled in Computer Science, Web Development. Pass
 
 ## GitHub Stats
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=baharkeshavarz&show_icons=true&theme=ayu_mirage" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=baharkeshavarz&show_icons=true&theme=aura" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baharkeshavarz&theme=ayu_mirage&layout=compact" />
 </div>
 
