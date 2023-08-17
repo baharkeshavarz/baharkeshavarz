@@ -22,7 +22,7 @@ I'm eager to learn and share. Skilled in Computer Science, Web Development. Pass
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/laravel-svgrepo-com.svg" width="50"/>
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/docker-svgrepo-com.svg" width="50"/>
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/mysql-svgrepo-com.svg" width="50"/>
-<img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/mysql-svgrepo-com.svg" width="50"/>
+<img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/mongo-svgrepo-com.svg" width="50"/>
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/postgresql-svgrepo-com.svg" width="50"/>
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/graphql-svgrepo-com.svg" width="50"/>
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/docker-svgrepo-com.svg" width="50"/>
