@@ -14,3 +14,8 @@ I'm eager to learn and share. Skilled in Computer Science, Web Development. Pass
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/react-javascript-js-framework-facebook-svgrepo-com.svg" width="50"/>
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/html-5-svgrepo-com.svg" width="50"/>
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/redux-svgrepo-com.svg" width="50"/>
+
+
+
+![](https://github.com/baharkeshavarz/baharkeshavarz/blob/main/js-svgrepo-com.svg) 
+![](https://github.com/baharkeshavarz/baharkeshavarz/blob/main/js-svgrepo-com.svg) 
