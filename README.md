@@ -5,8 +5,8 @@ I'm eager to learn and share. Skilled in Computer Science, Web Development. Pass
 
 ## GitHub Stats
 <div style="display: flex; flex-direction: row;">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baharkeshavarz&theme=ayu_mirage) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baharkeshavarz&theme=ayu_mirage) 
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
 </div>
 
 
