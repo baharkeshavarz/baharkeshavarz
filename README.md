@@ -5,7 +5,7 @@ I'm eager to learn and share. Skilled in Computer Science, Web Development. Pass
 
 ## GitHub Stats
 ![baharkeshavarz's Stats](https://github-readme-stats.vercel.app/api?username=baharkeshavarz&theme=merko&show_icons=true&hide_border=true&count_private=true)
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default) 
 
 ## Languages and Tools
 <p float="left">
