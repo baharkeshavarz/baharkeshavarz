@@ -16,6 +16,6 @@ I'm eager to learn and share. Skilled in Computer Science, Web Development. Pass
 <img src="https://github.com/baharkeshavarz/baharkeshavarz/blob/main/redux-svgrepo-com.svg" width="50"/>
 
 
-
-![](https://github.com/baharkeshavarz/baharkeshavarz/blob/main/js-svgrepo-com.svg) 
-![](https://github.com/baharkeshavarz/baharkeshavarz/blob/main/js-svgrepo-com.svg) 
+| Cat pics               | Dog pics               |
+| ---------------------- | ---------------------- |
+| ![cat](js-svgrepo-com.svg) | ![dog](js-svgrepo-com.svg) |
