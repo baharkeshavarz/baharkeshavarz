@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I'm eager to learn and share. Skilled in Computer Science, Web Development. Passionate about teamwork, solving problems, business challenges, and coding.
 
 ## Skills and Experience
-⚛ React
+⚛ React ...
 💻 HTML, CSS, JS
